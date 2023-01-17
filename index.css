@@ -101,3 +101,8 @@ button {
     color: #000000;
     font-weight: 500;
 }
+
+.footer{
+    font-weight: 300;
+    font-size: 18px;
+}
