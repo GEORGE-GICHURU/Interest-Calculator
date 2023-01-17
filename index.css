@@ -67,6 +67,11 @@ select {
     margin-left: 3%;
     padding: 8px 0;
     border-radius: 5px;
+    cursor: pointer;
+}
+
+option{
+    cursor: pointer;
 }
 
 button {
