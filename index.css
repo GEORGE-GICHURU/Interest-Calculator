@@ -70,10 +70,6 @@ select {
     cursor: pointer;
 }
 
-option{
-    cursor: pointer;
-}
-
 button {
     display: block;
     background-color: #000;
